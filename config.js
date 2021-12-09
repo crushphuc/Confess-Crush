@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Anh yêu em",
+    titleWeb: "GLST-JOKER",
     introTitle: 'Nguyễn Văn Linh',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
